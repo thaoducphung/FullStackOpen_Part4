@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/6096eb51d78bf46fcc25af2b
+Content-Type:  application/json
+
+{
+    "title": "Second Blog",
+    "author": "Phung Duc Thao",
+    "url": "https://helloword2.com",
+    "likes": 10
+}

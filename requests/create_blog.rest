@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type:  application/json
+
+{
+    "title": "Fisrt Blog",
+    "author": "Phung Duc Thao",
+    "url": "https://helloword.com",
+    "likes": 1
+}
