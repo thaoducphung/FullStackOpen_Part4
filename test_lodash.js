@@ -1,3 +1,4 @@
+// https://zetcode.com/javascript/lodash/
 const _ = require("lodash")
 
 let obs = [{n: 12}, {n: -4}, {n: 4}, {n: -11}]
