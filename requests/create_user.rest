@@ -1,0 +1,24 @@
+POST http://localhost:3003/api/users
+Content-Type: application/json
+
+# {
+#     "blogs": [],
+#     "username": "root",
+#     "name": "Superuser",
+#     "password": "salainen"
+# }
+
+{
+    "blogs": [],
+    "username": "mluukkai",
+    "name": "Matti Luukkainen",
+    "password": "secret"
+}
+
+# {
+#     "blogs": [],
+#     "username": "hellas",
+#     "name": "Arto Hellas",
+#     "password": "secret"
+# }
+# 609c07b0f1dcd81560840933
